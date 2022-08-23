@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../Player.ts"],
+  "sourcesContent": ["export interface Player {\nname :string;\njersey: number;\nactive: boolean;\n\n\n\n  \n}"],
+  "mappings": ";;AAAA;",
+  "names": []
+}
